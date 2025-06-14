@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e1",
+    "channel": "ZMUX News",
+    "program": "Morning Brief",
+    "time": "08:00"
+  },
+  {
+    "id": "e2",
+    "channel": "ZMUX Sports",
+    "program": "Live Match",
+    "time": "12:00"
+  }
+]
